@@ -5,7 +5,7 @@
 # 1. Quietly install required packages
 # This command ensures that 'markitdown' and its dependencies are available
 # in the Streamlit environment without displaying verbose installation logs.
-pip install -q markitdown[all]
+# pip install -q markitdown[all]
 
 import streamlit as st
 import os
